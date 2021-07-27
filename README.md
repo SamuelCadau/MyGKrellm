@@ -29,5 +29,10 @@ ou avec l'interface graphique ncurse
 ```
 $ ./MyGKrellm -t
 ```
+ou avec l'interface graphique SFML
+
+```
+$ ./MyGKrellm -g
+```
 
 By Samuel.CADAU, Florian.CARTOZO, Pierrick.MAHE, Arthur.BIELLE
